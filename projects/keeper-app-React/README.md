@@ -1,13 +1,16 @@
 ## Setup Keeper app
 
+This is a pretty basic React todo list app. With components like Header, Footer, Card, CreateCard. 
+![alt text](https://raw.githubusercontent.com/junjun107/Web_Development_Bootcamp/main/projects/keeper-app-React/public/snapshot.png)
+
+
+## Setup note app
 - Create a Header.js component
   - dynamic year
 - Create a Footer.js
 - Create a Note.js component
 - Create a CreateArea.js component
 - Add styles
-
-## Setup note app
 
 - import all components into app.js
   - render note with custom props for title and content
