@@ -1,6 +1,7 @@
 Using EJS with Express
 
 Use EJS to create templates for about, header, footer and list page.
+This is only the front-end of the todolist. 
 
 Inside app.js, a basic sever is setup.
 
